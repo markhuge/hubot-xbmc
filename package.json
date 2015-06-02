@@ -1,0 +1,20 @@
+{
+  "name": "hubot-xbmc",
+  "version": "1.0.0",
+  "description": "XBMC is now Kodi. This module has moved to hubot-kodi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhuge/hubot-xbmc.git"
+  },
+  "keywords": [
+    "xbmc",
+    "kodi",
+    "hubot"
+  ],
+  "author": "Mark Wilkerson <mark@segfawlt.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/hubot-xbmc/issues"
+  },
+  "homepage": "https://github.com/markhuge/hubot-xbmc#readme"
+}
